@@ -6,9 +6,9 @@ export const TestimonialContainer = styled.div`
   padding: 20px;
   overflow: hidden;
 
-  ${ ({ startC, endC, startR, endR, color }) => {
+  ${ ({ startC, endC, startR, endR, bgColor }) => {
     return`
-      background-color: ${color};
+      background-color: hsl(${bgColor});
       grid-column: ${startC} / ${endC};
       grid-row: ${startR} / ${endR};
     `
