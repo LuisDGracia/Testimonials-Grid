@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Testimonials-Grid/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/Testimonials-Grid/static/js/main.c282b85f.chunk.js",
+    "main.js.map": "/Testimonials-Grid/static/js/main.c282b85f.chunk.js.map",
+    "runtime-main.js": "/Testimonials-Grid/static/js/runtime-main.79b866ff.js",
+    "runtime-main.js.map": "/Testimonials-Grid/static/js/runtime-main.79b866ff.js.map",
+    "static/css/2.679831fc.chunk.css": "/Testimonials-Grid/static/css/2.679831fc.chunk.css",
+    "static/js/2.c23470e3.chunk.js": "/Testimonials-Grid/static/js/2.c23470e3.chunk.js",
+    "static/js/2.c23470e3.chunk.js.map": "/Testimonials-Grid/static/js/2.c23470e3.chunk.js.map",
+    "static/js/3.0939bccd.chunk.js": "/Testimonials-Grid/static/js/3.0939bccd.chunk.js",
+    "static/js/3.0939bccd.chunk.js.map": "/Testimonials-Grid/static/js/3.0939bccd.chunk.js.map",
+    "index.html": "/Testimonials-Grid/index.html",
+    "static/css/2.679831fc.chunk.css.map": "/Testimonials-Grid/static/css/2.679831fc.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/Testimonials-Grid/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.c23470e3.chunk.js.LICENSE.txt": "/Testimonials-Grid/static/js/2.c23470e3.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-quotation.6b460e30.svg": "/Testimonials-Grid/static/media/bg-pattern-quotation.6b460e30.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.79b866ff.js",
+    "static/css/2.679831fc.chunk.css",
+    "static/js/2.c23470e3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.c282b85f.chunk.js"
+  ]
+}
