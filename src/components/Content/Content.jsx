@@ -5,7 +5,7 @@ import { Container, MainText, SecondaryText } from './ContentStyled'
 function Content({ photo, text, mainSize, secondSize, color, alt}) {
   return (
     <Container>
-      <User src={photo} color={color} alt={alt} />
+      <User src={photo} color={color} alt={alt} name={text.name} />
       <MainText size={mainSize} color={color} >
         {text.main}
       </MainText>
