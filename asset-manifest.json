@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Testimonials-Grid/static/css/main.6dea0f05.chunk.css",
+    "main.css": "/Testimonials-Grid/static/css/main.e43c39bd.chunk.css",
     "main.js": "/Testimonials-Grid/static/js/main.09c4168f.chunk.js",
     "main.js.map": "/Testimonials-Grid/static/js/main.09c4168f.chunk.js.map",
     "runtime-main.js": "/Testimonials-Grid/static/js/runtime-main.79b866ff.js",
@@ -12,7 +12,7 @@
     "static/js/3.0939bccd.chunk.js.map": "/Testimonials-Grid/static/js/3.0939bccd.chunk.js.map",
     "index.html": "/Testimonials-Grid/index.html",
     "static/css/2.679831fc.chunk.css.map": "/Testimonials-Grid/static/css/2.679831fc.chunk.css.map",
-    "static/css/main.6dea0f05.chunk.css.map": "/Testimonials-Grid/static/css/main.6dea0f05.chunk.css.map",
+    "static/css/main.e43c39bd.chunk.css.map": "/Testimonials-Grid/static/css/main.e43c39bd.chunk.css.map",
     "static/js/2.c23470e3.chunk.js.LICENSE.txt": "/Testimonials-Grid/static/js/2.c23470e3.chunk.js.LICENSE.txt",
     "static/media/bg-pattern-quotation.6b460e30.svg": "/Testimonials-Grid/static/media/bg-pattern-quotation.6b460e30.svg"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.79b866ff.js",
     "static/css/2.679831fc.chunk.css",
     "static/js/2.c23470e3.chunk.js",
-    "static/css/main.6dea0f05.chunk.css",
+    "static/css/main.e43c39bd.chunk.css",
     "static/js/main.09c4168f.chunk.js"
   ]
 }
