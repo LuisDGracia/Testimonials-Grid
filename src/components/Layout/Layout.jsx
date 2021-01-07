@@ -1,11 +1,11 @@
 import React from 'react'
-import Testimonial from '../Testimonial/Testimonial'
+import Testimonials from '../Testimonials/Testimonials'
 import { TestimonialsContainer } from './LayoutStyled'
 
 function Layout() {
   return (
     <TestimonialsContainer>
-      <Testimonial />
+      <Testimonials />
     </TestimonialsContainer>
   )
 }
