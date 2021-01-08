@@ -24,8 +24,8 @@ function Testimonials() {
           photo={photos['image-daniel.jpg'].default} 
           alt={ 'daniel' }
           text={data.daniel} 
-          mainSize='1.3em' 
-          secondSize='0.9em'
+          mainSize='2.3em' 
+          secondSize='1.3em'
           color />
       </TestimonialContainer>
 
@@ -34,8 +34,8 @@ function Testimonials() {
           photo={photos['image-jonathan.jpg'].default}
           alt={ 'jonathan' } 
           text={data.jonathan} 
-          mainSize='1em' 
-          secondSize='0.9em'
+          mainSize='1.9em' 
+          secondSize='1.3em'
           color />
       </TestimonialContainer>
       
@@ -44,8 +44,8 @@ function Testimonials() {
           photo={photos['image-kira.jpg'].default}
           alt={ 'kira' }
           text={data.kira} 
-          mainSize='1em' 
-          secondSize='0.9em' />
+          mainSize='1.9em' 
+          secondSize='1.25em' />
       </TestimonialContainer>
 
       <TestimonialContainer startC="2" startR="7" endC="4" endR="12" bgColor={"0, 0%, 100%"} >
@@ -53,8 +53,8 @@ function Testimonials() {
           photo={photos['image-jeanette.jpg'].default}
           alt={ 'jeanette' }
           text={data.jeanette} 
-          mainSize='1em' 
-          secondSize='0.9em' />
+          mainSize='2em' 
+          secondSize='1.3em' />
       </TestimonialContainer>
 
       <TestimonialContainer startC="4" startR="7" endC="10" endR="12" bgColor={"219, 29%, 14%"} >
@@ -62,8 +62,8 @@ function Testimonials() {
           photo={photos['image-patrick.jpg'].default}
           alt={ 'patrick' }
           text={data.patrick}
-          mainSize='1.3em' 
-          secondSize='0.9em'
+          mainSize='2.3em' 
+          secondSize='1.3em'
           color />
       </TestimonialContainer>
     </Fragment>
